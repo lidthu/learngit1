@@ -4,4 +4,4 @@ Git tracks changes.
 Git has a mutable index called stage.
 creating a new branch called dev 
 creating a new branch called feature1 
-
+fast forward
